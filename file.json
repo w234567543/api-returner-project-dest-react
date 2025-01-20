@@ -1,3 +1,5 @@
 {
-  "link":"https://raw.githubusercontent.com/iancoleman/cia_world_factbook_api/refs/heads/master/data/factbook.json"
+	[
+		"link":"https://raw.githubusercontent.com/iancoleman/cia_world_factbook_api/refs/heads/master/data/factbook.json"
+	]
 }
